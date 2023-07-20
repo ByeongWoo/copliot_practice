@@ -9,5 +9,6 @@ public class CopliotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CopliotApplication.class, args);
 	}
+	
 
 }
